@@ -1,0 +1,6 @@
+project      = "your project id"
+credentials  = "path to service account key file.json"
+region       = "us-central1"
+zone         = "us-central1-a"
+machine_type = "f1-micro"
+image        = "debian-cloud/debian-11"

@@ -1,0 +1,13 @@
+memory_storage_name = "memorystore-staging-hr"
+memory_size_gb = 1
+tier  = "BASIC"
+cloud_storage_name = "cloudstorage-staging-hr-635438728"
+versioning = false
+project = "affordable-dev-project"
+region = "us-west1"
+zone = "us-west1-a"
+vpc_name = "affordable-webapplication-vpc-non-prod"
+cloud_sql_name = "my-cloud-sql"
+database_version = "MYSQL_5_7"
+db_tier = "db-f1-micro"
+enable_apis = true

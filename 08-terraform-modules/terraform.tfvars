@@ -1,0 +1,5 @@
+project            = "your project id"
+credentials        = "path to service account key jason file"
+region             = "us-west1"
+zone               = "us-west1-a"
+ip-cidr-range-west = "10.10.0.0/28"
